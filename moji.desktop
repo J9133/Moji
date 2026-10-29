@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Moji
+Comment=Browse, search and copy every Unicode character
+Exec=moji
+Icon=accessories-character-map
+Terminal=false
+Categories=Utility;
+StartupWMClass=local.Moji
+Keywords=unicode;character;emoji;symbols;charmap;
