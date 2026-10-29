@@ -4,7 +4,7 @@ A fast, simple character map for Linux. Every Unicode character in **one continu
 
 Written in C with GTK4. The grid is drawn by hand and only the visible cells are rendered, so scrolling through ~150,000 characters stays instant and the app starts in a fraction of a second.
 
-![Moji](screenshots/main.png)
+![Moji](main.png)
 
 ## Features
 
@@ -17,7 +17,7 @@ Written in C with GTK4. The grid is drawn by hand and only the visible cells are
 - **Right-click** any character to copy it instantly.
 - Full keyboard navigation.
 
-![Search](screenshots/search.png)
+![Search](search.png)
 
 ## Install
 
